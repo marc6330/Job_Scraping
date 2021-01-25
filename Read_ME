@@ -1,2 +1,3 @@
 First attempts of scraping LinkedIN Jobs with bs4 and selenium
 Objective is solely to scrape data. Visualization is done locally with Tableau
+In case you want to run it, make sure to download the chromedriver and save it in the location of the workflow.
